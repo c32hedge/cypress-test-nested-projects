@@ -1,6 +1,3 @@
 {
-  "reporterEnabled": "spec, mocha-junit-reporter",
-  "mochaJunitReporterReporterOptions": {
-    "mochaFile": "artifacts/junit/cpf-iapi-[hash].xml"
-  }
+  "reporterEnabled": "spec, landing"
 }
